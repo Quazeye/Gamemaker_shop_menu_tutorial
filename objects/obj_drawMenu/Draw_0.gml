@@ -5,5 +5,8 @@ if (global.Menu == 1) {
 	scr_shopDisplay();
 
 	// Drawing shop's products and it's display
-	scr_shopProductDisplay();	
+	scr_shopProductDisplay();
+	
+	// Drawing shop's products stats
+	scr_shopStats();	
 }

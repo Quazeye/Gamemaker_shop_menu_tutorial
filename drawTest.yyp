@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "4bd1adcf-3b3b-4f72-80f1-09599cc86e6a",
+            "Value": {
+                "id": "562ba233-3a11-4f14-a268-876478c1d33f",
+                "resourcePath": "scripts\\scr_shopStats\\scr_shopStats.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "50ebccc2-4bab-4422-9b17-776b27314720",
             "Value": {
                 "id": "6ab7f1f6-6ac7-400b-b48a-765ce2fe421e",
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "cac1b8f4-33eb-4f8a-8a0d-05a635f6938c",
+            "Value": {
+                "id": "0819b5ba-2c13-46eb-a6b0-89fb55d6e96c",
+                "resourcePath": "fonts\\fnt_shopStats\\fnt_shopStats.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "5d77018d-09a2-4e92-94b3-3f86dc6d4fa0",
@@ -273,7 +289,8 @@
     ],
     "script_order": [
         "f0a26693-fb6d-4107-ac84-f7b27862606c",
-        "28944c90-aaf1-4c6c-9058-829d4f149bef"
+        "28944c90-aaf1-4c6c-9058-829d4f149bef",
+        "4bd1adcf-3b3b-4f72-80f1-09599cc86e6a"
     ],
     "tutorial": ""
 }
