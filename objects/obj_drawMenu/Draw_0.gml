@@ -13,8 +13,9 @@ if (global.Menu == 1) {
 	// Set variables to correct value
 	scr_shopStatValue();
 
-
-
+	// set up description box for products
+	scr_shopDescription();
+	
 	// Set up players button input	
 	scr_shopButtonInput();
 
