@@ -8,5 +8,14 @@ if (global.Menu == 1) {
 	scr_shopProductDisplay();
 	
 	// Drawing shop's products stats
-	scr_shopStats();	
+	scr_shopStats();
+		
+	// Set variables to correct value
+	scr_shopStatValue();
+
+
+
+	// Set up players button input	
+	scr_shopButtonInput();
+
 }
